@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_e2197b5907d11677748127b30964c700a6015864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_42cfec7b814e0ef3d9ee24bc746c54d2c52a54cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_655db400996926a1b25e46950a7bd586844638cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_2b109d65f9182318b04da71105f008a19fad6984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_846fc7a7dfffe5bf1138da00a96933f3c4c8094e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_a9351bb7c96538dd1accad01410b1b3b4ff95793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_90b7a254c4d4a461963da966d6221a5d255f650b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1011d5cfed5ffe66b1e25f9fc5c387a7ac5cbfcf">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cfae24cc6009e14064e7b4560a98296ee1a4eab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_01767e962342aa9bb327d1a2e99de36830911e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_9ea22a16673f8f2d4334c1b4fff8709f5e044663\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_4e2d2f9a5b1819315410176e994be6003c134a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_c315e0607976c072c4665601a79a1701eb0b1de3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="962022b2b8e8c5e500fa3f8b2a0c2e04fa6b79e8">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_93edf2e64eb27467a80f8676e4f5b82e198d0019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_e80b6f2a7da87b096c6967605550b6cf4d174cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_17f7234950eb33c6ddf660356c258a54b1a6543b\classes.dex" />
+    </item>
+
+</items>
