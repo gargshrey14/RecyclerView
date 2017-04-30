@@ -1,6 +1,7 @@
 package com.example.recyclerview;
 
 import android.content.Context;
+import android.graphics.drawable.GradientDrawable;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.text.Editable;
@@ -11,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.Switch;
 import android.widget.TextView;
 
@@ -27,6 +29,8 @@ import static com.example.recyclerview.R.id.wAmount;
 
 public class RvAdapter extends RecyclerView.Adapter<RvAdapter.MyViewHolder>
 {
+    LinearLayout linearLayout;
+    GradientDrawable gd;
 
     public class MyViewHolder extends RecyclerView.ViewHolder
     {
@@ -35,6 +39,7 @@ public class RvAdapter extends RecyclerView.Adapter<RvAdapter.MyViewHolder>
         EditText wAmount;
         ImageView logo;
         Switch aSwitch;
+
 
         public MyViewHolder(View itemView)
         {
@@ -46,6 +51,8 @@ public class RvAdapter extends RecyclerView.Adapter<RvAdapter.MyViewHolder>
             wAmount=(EditText)itemView.findViewById(R.id.wAmount);
             aSwitch=(Switch)itemView.findViewById(R.id.switch1);
 
+            linearLayout=(LinearLayout)itemView.findViewById(R.id.linearlayout);
+            gd = (GradientDrawable)itemView.getBackground();
         }
     }
 
@@ -72,6 +79,9 @@ public class RvAdapter extends RecyclerView.Adapter<RvAdapter.MyViewHolder>
         holder.bank.setText(data.getBank());
         holder.funds.setText(data.getFunds());
         holder.cValue.setText(data.getcValue());
+
+        gd.setStroke(13,data.getColor());
+        linearLayout.setBackgroundDrawable(gd);
 
         holder.aSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener()
         {

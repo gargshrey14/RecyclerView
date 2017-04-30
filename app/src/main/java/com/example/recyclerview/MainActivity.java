@@ -1,5 +1,6 @@
 package com.example.recyclerview;
 
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.DefaultItemAnimator;
@@ -39,13 +40,13 @@ public class MainActivity extends AppCompatActivity
 
     void prepareData()
     {
-        dataList.add(new Data("HDFC","ABC Mutual funds","3500",R.drawable.ic_action_name));
-        dataList.add(new Data("SBI","XYZ Mutual funds","5000",R.drawable.ic_action_name));
-        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name));
-        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name));
-        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name));
-        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name));
-        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name));
+        dataList.add(new Data("HDFC","ABC Mutual funds","3500",R.drawable.ic_action_name, Color.RED));
+        dataList.add(new Data("SBI","XYZ Mutual funds","5000",R.drawable.ic_action_name, Color.BLUE));
+        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name, Color.BLACK));
+        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name, Color.YELLOW));
+        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name, Color.MAGENTA));
+        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name, Color.GREEN));
+        dataList.add(new Data("ICICI","PQR Mutual funds","1500",R.drawable.ic_action_name, Color.BLACK));
 
 
         adapter.notifyDataSetChanged();
